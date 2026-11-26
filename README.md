@@ -3,5 +3,5 @@
 Grupo 05
 Igor, Jean e Milena	
 
-Código	Dataset	        Alvo
-D1	Bank Marketing	Contratação de depósito a prazo (não/sim)
+Código: D1,	Dataset: Bank Marketing,  Alvo: Contratação de depósito a prazo (não/sim)
+
